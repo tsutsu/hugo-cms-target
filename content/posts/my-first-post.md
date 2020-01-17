@@ -1,6 +1,6 @@
 ---
-title: "My First Post"
-date: 2020-01-17T12:24:44-08:00
+title: My First Post
+date: 2020-01-17T20:24:44.000Z
+description: Hmmm
 ---
-
-Hi
+Hi y'all
